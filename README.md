@@ -4,9 +4,6 @@
 - 👨🏼‍🎓 Computer Engineering student at Lovely Professional University (LPU).
 - 👨‍💻 Qualify in Goldman Sachs campus engineering hiring program.
 - 🤖 Core Contributor to Node.js REPL enhancements.
-- 👯 Google Summer of Code (GSoC) 2024 Contributor.
-- 👯 Core Contributor at stdlib.
-- 👯 Implemented advanced numerical computing features in Node.js.
 - 👯 Developed 150+ special mathematical functions in C & JavaScript.
 - 👯 Optimized JavaScript probability distributions, achieving 10,000x speed improvements over SciPy.
 - ✨ Leader of web development projects at BetaLabs.
@@ -14,8 +11,6 @@
 - 🌱 Machine Learning Engineer @Warner Bros. Discovery.
 - 👨‍💻 Summer '2024 @QuansightLabs as Open Source Developer Intern.
 - 🤖 Software Development Intern @Warner Bros. Discovery in Summer'2024.
-- ✨ worked to get LFortran compile Fortran codebase of SciPy.
-- 🔭 I’m currently working as a Compiler Developer @lfortran | Javascript Developer @stdlib-js
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: <a href="mailto:rejoansardar620@gmail.com">rejoansardar620@gmail.com</a> / <a href="mailto:rejoan@lpu.in">rejoan@lpu.in</a>
 ## 🚀 Languages and Tools
@@ -37,8 +32,6 @@
 </p>
 
 ## 📊 Github Stats
-![Rejoan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranavchiku&show_icons=true&theme=github_dark&hide_border=True)\
-[![Rejoan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranavchiku&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=github-dark-blue)](https://git.io/streak-stats)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavchiku&layout=compact&theme=github_dark&hide_border=True&langs_count=10)]()\
 PS: Top Languages are metric of language that my public code contains it doesnot reflect my experience or skill level.\
 <!-- [![Rejoan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pranavchiku&custom_title=Pranav's%20contribution%20graph&hide_border=true&theme=react-dark)]() -->
