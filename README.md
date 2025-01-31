@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hii%20Pranav%20here!💻&animation=fadeIn&type=waving&color=gradient&height=100)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hii%20RJ%20Here!)
 
 ## 🙋‍♂️ About Me
 - 👨🏼‍🎓 Computer Engineering student at Lovely Professional University (LPU).
