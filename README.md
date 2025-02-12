@@ -1,14 +1,18 @@
-![header](https://capsule-render.vercel.app/api?text=Hii%20Pranav%20here!💻&animation=fadeIn&type=waving&color=gradient&height=100)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hii%20RJ%20Here!)
 
 ## 🙋‍♂️ About Me
-- 👨🏼‍🎓 I'm a computer science graduate from IIT Jodhpur.
+- 👨🏼‍🎓 Computer Engineering student at Lovely Professional University (LPU).
+- 👨‍💻 Qualify in Goldman Sachs campus engineering hiring program.
+- 🤖 Core Contributor to Node.js REPL enhancements.
+- 👯 Developed 150+ special mathematical functions in C & JavaScript.
+- 👯 Optimized JavaScript probability distributions, achieving 10,000x speed improvements over SciPy.
+- ✨ Leader of web development projects at BetaLabs.
+- ✨ Strong background in Data Structures, Algorithms, and Competitive Programming.
 - 🌱 Machine Learning Engineer @Warner Bros. Discovery.
 - 👨‍💻 Summer '2024 @QuansightLabs as Open Source Developer Intern.
-- 🤖 Software Development Intern @Warner Bros. Discovery in Summer'2023.
-- ✨ I'm a GSoC '2023 recipient @fortran-lang, worked to get LFortran compile Fortran codebase of SciPy.
-- 🔭 I’m currently working as a Compiler Developer @lfortran | Javascript Developer @stdlib-js
+- 🤖 Software Development Intern @Warner Bros. Discovery in Summer'2024.
 - 👯 I’m looking to collaborate on open source projects.
-- 📫 How to reach me: <a href="mailto:pranavchiku11@gmail.com">pranavchiku11@gmail.com</a> / <a href="mailto:goswami.4@iitj.ac.in">goswami.4@iitj.ac.in</a>
+- 📫 How to reach me: <a href="mailto:rejoansardar620@gmail.com">rejoansardar620@gmail.com</a> / <a href="mailto:rejoan@lpu.in">rejoan@lpu.in</a>
 ## 🚀 Languages and Tools
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
