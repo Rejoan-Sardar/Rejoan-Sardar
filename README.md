@@ -31,9 +31,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## 📊 Github Stats
-![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranavchiku&show_icons=true&theme=github_dark&hide_border=True)\
-[![Pranav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pranavchiku&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j&theme=github-dark-blue)](https://git.io/streak-stats)\
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranavchiku&layout=compact&theme=github_dark&hide_border=True&langs_count=10)]()\
 PS: Top Languages are metric of language that my public code contains it doesnot reflect my experience or skill level.\
 <!-- [![Pranav's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pranavchiku&custom_title=Pranav's%20contribution%20graph&hide_border=true&theme=react-dark)]() -->
