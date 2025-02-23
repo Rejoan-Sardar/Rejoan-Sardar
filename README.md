@@ -3,10 +3,8 @@
 ## 🙋‍♂️ About Me
 - 👨🏼‍🎓 Computer Engineering student at Lovely Professional University (LPU).
 - 👨‍💻 Qualify in Goldman Sachs campus engineering hiring program.
-- 🤖 Core Contributor to Node.js REPL enhancements.
 - 👯 Developed 150+ special mathematical functions in C & JavaScript.
 - 👯 Optimized JavaScript probability distributions, achieving 10,000x speed improvements over SciPy.
-- ✨ Leader of web development projects at BetaLabs.
 - ✨ Strong background in Data Structures, Algorithms, and Competitive Programming.
 - 👯 I’m looking to collaborate on open source projects.
 - 📫 How to reach me: <a href="mailto:rejoansardar620@gmail.com">rejoansardar620@gmail.com</a> / <a href="mailto:rejoan@lpu.in">rejoan@lpu.in</a>
